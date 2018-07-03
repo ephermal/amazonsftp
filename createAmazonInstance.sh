@@ -4,8 +4,8 @@
 
 
 #This part up to Line 15 maybe replaced with MULEAPI
-gmailUsername='instanceamazon'
-gmailPassword='Mulesoft123!'
+gmailUsername=''
+gmailPassword=''
 echo
 
 
